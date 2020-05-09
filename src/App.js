@@ -12,6 +12,7 @@ class App extends React.Component {
     this.state = {
       data: data
     }
+    console.log(data);
     this.sortBy = this.sortBy.bind(this)
   }
 
