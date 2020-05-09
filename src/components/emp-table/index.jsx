@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export default function EmpTable(props) {
     return (
@@ -6,7 +6,7 @@ export default function EmpTable(props) {
             <thead>
             <tr>
               <th>
-                <button onClick={props.sortBy('id')}>ID</button>
+                <button onClick={props.sortBy("ID")}>ID</button>
               </th>
               <th></th>
               <th>First Name</th>
@@ -19,7 +19,7 @@ export default function EmpTable(props) {
               {
                 props.data.map(row =>(
                 <tr>
-                    <td>{row.id}</td>
+                    <td>{row.ID}</td>
                     <td>{row.avatar}</td>
                     <td>{row.first_name}</td>
                     <td>{row.last_name}</td>
