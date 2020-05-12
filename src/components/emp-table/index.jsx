@@ -4,9 +4,10 @@ export default function EmpTable(props) {
     return (
       <div className="container">
       <nav className="navbar navbar-light bg-light">
-            <a className="navbar-brand">Employee List</a>
+            <span className="navbar-brand">Employee List</span>
             <form className="form-inline">
-              <input className="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" onChange={(event) => props.onSearchInputChange(event, event.target.value)}/>
+              { <input className="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" onChange={(event) => props.onSearchInputChange(event, event.target.value)}/> }
+              {/* <input className="input mr-sm-2" type="text" placeholder="Search via First Name" aria-label="Search" onChange={handleChange}/> */}
             </form>
           </nav>
         <table>
