@@ -8,10 +8,9 @@ An app that allows the user to view, search(by first name), and sort by ID and e
 
 As a user, I want to be able search an employee list quickly for a specific employee in order to access to their information.
 
-
-
  
- ## Table of Contents: 
+## Table of Contents: 
+
   * Instructions
   * Installation 
   * Requirements
@@ -20,7 +19,7 @@ As a user, I want to be able search an employee list quickly for a specific empl
   * Questions 
   * Images 
 
-   #### Instructions:
+#### Instructions:
 
    1. Page loads current list upon start.
    2. Click on "ID" or "Email" to sort the column(ascending/descending or alphabetically, respectively). 
@@ -28,30 +27,30 @@ As a user, I want to be able search an employee list quickly for a specific empl
    4. Click on "X" clear results from search and return original list.
    
 
-   #### Installation: 
+#### Installation: 
 
    create-react-app
    npm start
    
-   ### Requirements: 
+### Requirements: 
 
-   * [React.js] (https://reactjs.org)
-  
-   
-   #### License: 
+* [React.js] (https://reactjs.org)
 
-   ISC: [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-   
-   ### Contributions: Karna Cutolo
 
-   
-   ### Questions: 
-      
-   #### If you have any questions about this repo, please reach out: 
+#### License: 
 
-   **Email: karna.cutolo@gmail.com**
-     
-   #### Images:
+ISC: [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+### Contributions: Karna Cutolo
+
+
+### Questions: 
+    
+#### If you have any questions about this repo, please reach out: 
+
+**Email: karna.cutolo@gmail.com**
+    
+#### Images:
 
 **Main Page**
 
