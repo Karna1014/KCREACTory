@@ -55,5 +55,5 @@ As a user, I want to be able search an employee list quickly for a specific empl
 
 **Main Page**
 
-![Main Page](../assets/images/EmpDir.gif)
+![Main Page](https://drive.google.com/file/d/1YxdE6iCPWUejmfMU95HD5KZ56dWQgQwk/view?usp=sharing)
 
