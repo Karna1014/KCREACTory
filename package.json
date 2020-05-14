@@ -12,7 +12,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://Karna1014.github.io/KCREACTory",
+  "homepage": "https://karna1014.github.io/KCREACTory",
   "scripts": {
     "start": "set PORT=4343 && react-scripts-start",
     "start-mac": "PORT=4343 react-scripts start",

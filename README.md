@@ -29,12 +29,12 @@ As a user, I want to be able search an employee list quickly for a specific empl
 
 #### Installation: 
 
-   create-react-app
-   npm start
+  * create-react-app
+  * npm start
    
 ### Requirements: 
 
-* [React.js] (https://reactjs.org)
+  * [React.js] (https://reactjs.org)
 
 
 #### License: 
@@ -52,7 +52,7 @@ ISC: [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https:
     
 #### Images:
 
-**Main Page**
+**GIF Demonstrating Site**
 
-![Main Page](https://drive.google.com/file/d/1YxdE6iCPWUejmfMU95HD5KZ56dWQgQwk/view?usp=sharing)
+![GIF](https://drive.google.com/file/d/1YxdE6iCPWUejmfMU95HD5KZ56dWQgQwk/view?usp=sharing)
 
