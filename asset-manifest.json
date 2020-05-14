@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KCREACTory/static/css/main.ad88b555.chunk.css",
+    "main.js": "/KCREACTory/static/js/main.73d46c28.chunk.js",
+    "main.js.map": "/KCREACTory/static/js/main.73d46c28.chunk.js.map",
+    "runtime-main.js": "/KCREACTory/static/js/runtime-main.48ba45e6.js",
+    "runtime-main.js.map": "/KCREACTory/static/js/runtime-main.48ba45e6.js.map",
+    "static/js/2.9c9da10e.chunk.js": "/KCREACTory/static/js/2.9c9da10e.chunk.js",
+    "static/js/2.9c9da10e.chunk.js.map": "/KCREACTory/static/js/2.9c9da10e.chunk.js.map",
+    "index.html": "/KCREACTory/index.html",
+    "precache-manifest.c33023cca23da30b058b9212c3cf9253.js": "/KCREACTory/precache-manifest.c33023cca23da30b058b9212c3cf9253.js",
+    "service-worker.js": "/KCREACTory/service-worker.js",
+    "static/css/main.ad88b555.chunk.css.map": "/KCREACTory/static/css/main.ad88b555.chunk.css.map",
+    "static/js/2.9c9da10e.chunk.js.LICENSE.txt": "/KCREACTory/static/js/2.9c9da10e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48ba45e6.js",
+    "static/js/2.9c9da10e.chunk.js",
+    "static/css/main.ad88b555.chunk.css",
+    "static/js/main.73d46c28.chunk.js"
+  ]
+}
