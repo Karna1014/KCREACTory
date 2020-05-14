@@ -14,10 +14,10 @@
   },
   "homepage": "https://karna1014.github.io/KCREACTory",
   "scripts": {
-    "start": "set PORT=4343 && react-scripts-start",
-    "start-mac": "PORT=4343 react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "set PORT=4343 && react-scripts-start",
+    "start-mac": "PORT=4343 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
