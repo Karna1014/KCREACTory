@@ -54,5 +54,5 @@ ISC: [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https:
 
 **GIF Demonstrating Site**
 
-![GIF](https://drive.google.com/file/d/1YxdE6iCPWUejmfMU95HD5KZ56dWQgQwk/view?usp=sharing)
+![GIF](./assets/images/EmpDir.gif)
 
