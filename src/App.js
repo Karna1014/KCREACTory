@@ -1,4 +1,5 @@
 import React from "react";
+import {HashRouter as Router, Route, Link } from "react-router-dom";
 import EmpTable from "./components/emp-table";
 import data from "./data/Employee.json";
 
