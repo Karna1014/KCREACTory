@@ -1,7 +1,7 @@
 import React from "react";
 import EmpTable from "./components/emp-table";
 import data from "./data/Employee.json";
-
+import {Hashrouter as Router, Route, Link} from "react-router-dom";
 import "./App.css";
 
 class App extends React.Component {
