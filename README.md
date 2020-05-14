@@ -2,7 +2,7 @@
 
 ## Description: 
 
-An app that allows the user to view, search(by first name), and sort by ID and email(asc/desc) a current employee list. It requires UI response to events and managing component states. 
+An app that allows the user to view, search(by first name), and sort by ID and email(asc/desc and alphabetically) a current employee list. It requires UI response to events and managing component states. 
 
 ## User Story:
 
